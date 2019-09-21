@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackshot", "Blackshot\Blackshot.csproj", "{878C6C93-180D-403D-A63B-791ED0B14CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878C6C93-180D-403D-A63B-791ED0B14CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878C6C93-180D-403D-A63B-791ED0B14CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878C6C93-180D-403D-A63B-791ED0B14CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878C6C93-180D-403D-A63B-791ED0B14CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD2D69D-6538-4756-92F3-EA9834AA9975}
+	EndGlobalSection
+EndGlobal
