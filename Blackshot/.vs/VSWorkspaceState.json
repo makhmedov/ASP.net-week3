@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Blackshot",
+    "\\Blackshot\\Views",
+    "\\Blackshot\\Views\\Shared"
   ],
-  "SelectedNode": "\\Blackshot.sln",
+  "SelectedNode": "\\Blackshot\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
