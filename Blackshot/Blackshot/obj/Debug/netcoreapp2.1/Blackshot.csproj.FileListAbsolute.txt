@@ -23,3 +23,32 @@ C:\Users\21791\source\repos\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blacksho
 C:\Users\21791\source\repos\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Index.g.cshtml.cs
 C:\Users\21791\source\repos\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\21791\source\repos\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\21791\source\repos\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\messages\ShowMessage.g.cshtml.cs
+C:\Users\21791\source\repos\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\calculator\Result.g.cshtml.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.deps.json
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.runtimeconfig.json
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.runtimeconfig.dev.json
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.dll
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.pdb
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.Views.dll
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\bin\Debug\netcoreapp2.1\Blackshot.Views.pdb
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.csprojAssemblyReference.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.RazorAssemblyInfo.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.RazorAssemblyInfo.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.AssemblyInfoInputs.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.AssemblyInfo.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.TagHelpers.input.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.TagHelpers.output.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.RazorCoreGenerate.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\calculator\Result.cshtml.g.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Index.cshtml.g.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\messages\ShowMessage.cshtml.g.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.RazorTargetAssemblyInfo.cache
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.RazorTargetAssemblyInfo.cs
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.Views.pdb
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.dll
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.pdb
+C:\Users\2201\Desktop\Blackshot_lab3 (1)\Blackshot\Blackshot\obj\Debug\netcoreapp2.1\Blackshot.csproj.CopyComplete
